@@ -1,6 +1,5 @@
 #include<iostream>
 
-
 constexpr double kmmir = 1.60934;
 constexpr double mikmr = 0.621371;
 int main() {
